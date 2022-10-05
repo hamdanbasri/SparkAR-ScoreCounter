@@ -41,7 +41,7 @@ This [code](#code) is here just to do that.
 
 <!-- SETUP -->
 ## Setup
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhamdanbasri%2FLerpControl&label=Visitors&countColor=%23263759&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhamdanbasri%2FSparkAR-ScoreCounter&label=Visitors&countColor=%23263759&style=flat)
 * Open Spark AR and add 3 <strong>Rectangles</strong> to the scene.
 * Name the rectangles to <strong>Wizard, Orc & Dragon</strong>.
 * Add a 2D Text to assign a name to each rectangles as their children.
