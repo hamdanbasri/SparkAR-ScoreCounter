@@ -148,7 +148,7 @@ let score = 0;
 <img src="images/PatchEditor.png">
 </div>
 
-* That's it, try to implement it on your on game.
+* That's it, try to implement it inside your own game.
 
 <!-- CONTACT -->
 ## Contact
