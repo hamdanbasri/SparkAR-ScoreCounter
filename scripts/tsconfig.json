@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "C:/Users/USER/AppData/Local/Facebook/Spark AR Studio/cache/Scripting",
+    "checkJs": false,
+    "esModuleInterop": true,
+    "lib": [
+      "ES2019"
+    ],
+    "outDir": "C:/Users/USER/AppData/Local/Facebook/Spark AR Studio/cache/Scripting/out-dir",
+    "paths": {
+      "*": [
+        "skylight-typedefs/2091f1a3846662d/*",
+        "skylight-node_modules/*"
+      ]
+    },
+    "target": "es5",
+    "typeRoots": [
+      "C:/Users/USER/AppData/Local/Facebook/Spark AR Studio/cache/Scripting/skylight-node_modules/@types"
+    ],
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "./**/*.js",
+    "./**/*.ts"
+  ]
+}
